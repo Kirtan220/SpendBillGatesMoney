@@ -4,7 +4,7 @@ A simple React app that lets users simulate spending Bill Gates' wealth on vario
 
 ## Demo
 
-You can visit the live site from [this link]()
+You can visit the live site from [this link](https://stately-cupcake-6a2406.netlify.app/)
 
 ## Features
 
